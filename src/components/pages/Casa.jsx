@@ -1,6 +1,6 @@
 function Casa() {
     return (
-        <h>CAsa</h>
+        <h1>Casa</h1>
     )
 }
 

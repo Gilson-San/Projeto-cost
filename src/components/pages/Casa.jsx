@@ -1,6 +1,7 @@
 function Casa() {
     return (
-        <h>CAsa</h>
+        
+        <h1>ola mundo</h1>
     )
 }
 

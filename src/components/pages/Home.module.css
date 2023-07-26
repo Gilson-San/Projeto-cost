@@ -1,0 +1,38 @@
+.leg{
+    display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+}
+
+
+.home_conyainer {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.home_conyainer h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+
+}
+
+.home_conyainer h1 span {
+    color: #ffbb33;
+    padding: 0 0.2em;
+    background-color: #222;
+}
+
+.home_conyainer p {
+    margin-bottom: 1.5em;
+    color: #7b7b7b;
+}
+
+.home_conyainer img {
+    width: 350px;
+    margin: 2em 0;
+}

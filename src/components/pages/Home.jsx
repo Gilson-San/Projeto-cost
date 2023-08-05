@@ -4,7 +4,7 @@ import LinkButton from '../layout/LinkButton'
 
 function Home() {
     return (
-        <div className={styles.leg}>
+        
         <section className={styles.home_conyainer}>
             <h1 className={styles.bt}>Bem-Vindo <span>Cost</span></h1>
             <p>Comece a gerenciar os seus projetos agora mesmo!</p>
@@ -12,7 +12,7 @@ function Home() {
             <img src={savings} alt="Costs"/>
 
         </section>
-        </div>
+        
     )
 }
 

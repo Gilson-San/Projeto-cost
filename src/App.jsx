@@ -8,7 +8,7 @@ import Contact from './components/pages/Contact'
 import NewProject from './components/pages/NewProject'
 import Navbar from './components/layout/Navbar'
 import Footer from './components/layout/Footer'
-import Casa from './components/pages/Casa'
+
 
 
 function App() {
@@ -26,7 +26,7 @@ function App() {
         <Route exact path="/company" element={<Company />} />
         <Route exact path="/contact" element={<Contact />} />
           <Route exact path="/newproject" element={<NewProject />} />
-          <Route exact path="/casa" element={<Casa/>} />
+          
           
 
         </Routes>
